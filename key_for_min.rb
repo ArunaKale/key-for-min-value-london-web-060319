@@ -10,3 +10,16 @@ name_hash.each do
 end
 min_key
 end 
+
+def key 
+end 
+def keys 
+end 
+def values 
+end 
+def min
+end 
+def sort 
+end 
+def min_key
+end 
