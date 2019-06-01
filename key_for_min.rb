@@ -3,8 +3,10 @@
 
 
 def key_for_min_value(hash)
-name_hash.each do 
+new_hash {}
+hash.each do 
   |key, value|
+  new_hash << key
   
   
 end
