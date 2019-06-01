@@ -7,9 +7,7 @@ new_hash {}
 hash.each do 
   |key, value|
   new_hash << key
-  
-  
-end
+  end
 end
 
 end 
