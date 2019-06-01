@@ -29,19 +29,3 @@ def key_for_min_value(name_hash)
     end
   end
 end
-
-
-
-
-def key 
-end 
-def keys 
-end 
-def values 
-end 
-def min
-end 
-def sort 
-end 
-def min_key
-end 
